@@ -1,0 +1,144 @@
+🔹 Core Java
+
+What is the difference between == and .equals() in Java?
+
+Explain the concept of immutability. Is String immutable? Why?
+
+What are the key features of Java?
+
+What is the difference between final, finally, and finalize()?
+
+What is the difference between abstract classes and interfaces?
+
+What is autoboxing and unboxing?
+
+What are wrapper classes in Java?
+
+How is memory managed in Java? (Stack vs Heap)
+
+--------------------------------------------------------------------------------------------------
+
+🔹 OOP Concepts
+
+What are the four pillars of OOP in Java?
+
+What is method overloading vs method overriding?
+
+Can you override a private or static method?
+
+What is the difference between composition and inheritance?
+
+What is the use of super and this keyword?
+--------------------------------------------------------------------------------------------------
+
+🔹 Collections Framework
+
+What is the difference between List, Set, and Map?
+
+Explain the difference between ArrayList and LinkedList.
+
+What is the difference between HashMap, TreeMap, and LinkedHashMap?
+
+What is the difference between HashSet and TreeSet?
+
+What is ConcurrentHashMap and how is it different from HashMap?
+
+What are fail-fast and fail-safe iterators?
+
+--------------------------------------------------------------------------------------------------
+
+🔹 Multithreading and Concurrency
+
+What is the difference between Thread and Runnable?
+
+What is synchronization? What are synchronized methods and blocks?
+
+What is a deadlock? How can you prevent it?
+
+Explain the use of volatile, wait(), notify(), notifyAll() in Java.
+
+What is the Executor framework in Java?
+
+Difference between synchronized block and ReentrantLock.
+
+--------------------------------------------------------------------------------------------------
+
+🔹 Exception Handling
+
+What is the difference between checked and unchecked exceptions?
+
+Can you catch multiple exceptions in one catch block?
+
+What is the use of try-with-resources?
+
+--------------------------------------------------------------------------------------------------
+
+🔹 Java 8 and Beyond
+
+What are functional interfaces?
+
+What is a lambda expression?
+
+What are Streams in Java 8?
+
+Explain the difference between map() and flatMap().
+
+What is the Optional class used for?
+
+What are default and static methods in interfaces?
+
+--------------------------------------------------------------------------------------------------
+
+🔹 Design Patterns
+
+What is the Singleton Pattern? How do you implement it?
+
+What is Factory Pattern?
+
+What is the difference between Strategy and Observer patterns?
+
+What is Dependency Injection and where have you used it?
+
+--------------------------------------------------------------------------------------------------
+
+🔹 JVM Internals
+
+What is the JIT compiler?
+
+Explain the class loading mechanism in Java.
+
+What are the different memory areas in JVM?
+
+What is garbage collection? Can you force it?
+
+What are different garbage collectors in Java (G1, CMS, etc)?
+
+--------------------------------------------------------------------------------------------------
+
+🔹 Spring (if applicable)
+
+If you’re also using Spring in your job, they may ask:
+
+What is dependency injection?
+
+Difference between @Component, @Service, @Repository, @Controller.
+
+What is the Spring Bean lifecycle?
+
+What is the difference between @Autowired and @Inject?
+
+What is the use of @Transactional?
+
+--------------------------------------------------------------------------------------------------
+
+🔹 SQL + System Design (basic)
+
+Write a query to find the second highest salary from a table.
+
+Explain normalization and denormalization.
+
+Can you design a simple URL shortener or parking lot system?
+
+How would you design a thread-safe LRU cache?
+
+--------------------------------------------------------------------------------------------------
