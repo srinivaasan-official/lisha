@@ -3,6 +3,9 @@ Core Java
 ***********
 1. What is the difference between == and .equals() in Java?
 
+   In Java, the equals() method and the == operator are used to compare objects. The main difference is that string equals() method compares the content equality of two strings while the == operator compares the reference or memory location of objects in a heap, 
+   whether they point to the same location or not.
+
 2. Explain the concept of immutability. Is String immutable? Why?
 
 3. What are the key features of Java?
